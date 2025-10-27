@@ -6,7 +6,7 @@
 // TCP connection constants
 //#define DB_SERVER_IP      "snrs.natdat.mx"    // address for TCP connection
 //#define TCP_PORT          "12606"             // Port number for TCP connection
-#define DB_SERVER_IP        "143.110.152.110"   // IP address for TCP connection
+#define DB_SERVER_IP        "d03.elathia.ai"   // IP address for TCP connection
 #define TCP_PORT            "11234"             // Port number for TCP connection
 #define NTP_SERVER_IP       "200.23.51.102"     // NTP server IP address
 
